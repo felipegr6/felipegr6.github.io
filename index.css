@@ -53,7 +53,7 @@ th, td {
   word-break: break-all;
 }
 
-sub {
-  vertical-align: sub;
-  font-size: smaller;
+img {
+  width: 360;
+  height: auto;
 }
